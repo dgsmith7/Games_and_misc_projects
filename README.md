@@ -1,0 +1,1 @@
+A collection of miscellaneous (not necessarily art) projects I have made though the years. I revisit these sometimes but some may not be working. Each represents some milestone of learning and experimentation.# Games_and_misc_projects
